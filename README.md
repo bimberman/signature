@@ -7,7 +7,7 @@ This is my personal signature for emails
 
 ## Preview
 
-(https://raw.githubusercontent.com/bimberman/signature/main/demo.jpg)
+[!Preview](https://raw.githubusercontent.com/bimberman/signature/main/demo.jpg)
 
 ## Features
 
