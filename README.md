@@ -1,4 +1,4 @@
-# signature
+# Signature
 This is my personal signature for emails
 
 ## Technologies Used
